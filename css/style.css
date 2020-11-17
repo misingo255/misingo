@@ -55,3 +55,79 @@ span{
   text-align: center;
 
 }
+
+.card-one {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  background-color: #1C2331;
+  transition: 0.3s;
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin: 5px;
+  padding: 15px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card-one:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-two {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  background-color: #1C2331;
+  transition: 0.3s;
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin: 5px;
+  padding: 15px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card-two:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-three {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  background-color: #1C2331;
+  transition: 0.3s;
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin: 5px;
+  padding: 15px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card-three:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
+.site-icon{
+
+  font-size: 20px;
+  font-weight: bold;
+  font-family: verdana;
+  color: white;
+  text-align: center;
+
+}
+
+.username{
+
+  font-size: 20px;
+  font-weight: bold;
+  font-family: verdana;
+  color: white;
+  text-align: center;
+
+}
